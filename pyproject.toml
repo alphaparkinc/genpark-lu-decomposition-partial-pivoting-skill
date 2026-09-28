@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-lu-decomposition-partial-pivoting-skill"
+version = "1.0.0"
+description = "Gaussian elimination with row partial pivoting (PLU decomposition) and linear system solver"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-lu-decomposition-partial-pivoting-skill.git"
