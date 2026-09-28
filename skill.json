@@ -1,0 +1,9 @@
+{
+  "name": "genpark-lu-decomposition-partial-pivoting-skill",
+  "version": "1.0.0",
+  "description": "Gaussian elimination with row partial pivoting (PLU decomposition) and linear system solver",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
