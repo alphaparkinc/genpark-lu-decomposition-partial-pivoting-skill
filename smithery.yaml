@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-lu-decomposition-partial-pivoting-skill
+service:
+  name: genpark-lu-decomposition-partial-pivoting-skill
+  command: python
+  args:
+    - mcp_server.py
